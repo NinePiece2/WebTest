@@ -1,0 +1,33 @@
+body {
+    background-color: #121212;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+  
+  h1 {
+     color: white;
+  }
+  
+  h2 {
+     color: white; 
+  }
+  
+  h3 {
+     color: white; 
+  }
+  
+  h4 {
+     color: white; 
+  }
+  
+  td {
+     color: white;
+  }
+  
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+  }
